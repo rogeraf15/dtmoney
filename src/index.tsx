@@ -18,7 +18,7 @@ createServer({
           type: 'deposit',
           category: 'Dev',
           amount: 6000,
-          createdAt: new Date('2021-02-18')
+          createdAt: new Date('2021-02-18 09:00:00')
         },
         {
           id: 2,
@@ -26,7 +26,7 @@ createServer({
           type: 'withdraw',
           category: 'Casa',
           amount: 1000,
-          createdAt: new Date('2021-02-28')
+          createdAt: new Date('2021-02-28 09:00:00')
         }
       ]
     })
