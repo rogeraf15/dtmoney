@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Dashboard } from './components/Dashboard';
 import { Header } from './components/Header';
 import { GlobalStyle } from './styles/global';
 import { NewTransactionModal } from './components/NewTransactionModal';
-import { TransactionProvider } from './TransactionsContext';
+import { TransactionProvider } from './hooks/useTransactions';
 
 
 export function App() {
