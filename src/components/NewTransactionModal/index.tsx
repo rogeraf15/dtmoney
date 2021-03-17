@@ -30,7 +30,8 @@ export function NewTransactionModal({
       title,
       value,
       category, 
-      type
+      type,
+      date: new Date(),
     };
 
     api.post('transactions', data);
