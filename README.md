@@ -47,7 +47,7 @@ Before starting :checkered_flag:, you need to have installed:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/rogeraf15/ignite_dtmoney.git
+$ git clone https://github.com/rogeraf15/dtmoney.git
 
 # Access
 $ cd ignite_dtmoney
