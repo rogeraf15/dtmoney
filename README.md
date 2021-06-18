@@ -50,7 +50,7 @@ Before starting :checkered_flag:, you need to have installed:
 $ git clone https://github.com/rogeraf15/dtmoney.git
 
 # Access
-$ cd ignite_dtmoney
+$ cd dtmoney
 
 # Install dependencies
 $ yarn
